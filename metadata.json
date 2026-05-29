@@ -1,0 +1,6 @@
+{
+  "name": "Price Source",
+  "description": "Find and compare prices, shipping, variations, and discounts for items across multiple websites using Google Search Grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
